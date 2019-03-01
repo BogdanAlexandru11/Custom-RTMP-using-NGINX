@@ -1,6 +1,4 @@
-I use digitalocean for my video streaming servers, https://m.do.co/c/23f41a57675c  1st signup and create a ubuntu 64 bit 14.04 droplet. The droplet the $5/mo
-You will need putty (How-to) and to learn a bit about Linux after you successful ssh to your server then this will get you up and running.
-**Note cellular service may affect the streaming since the go app uses a fixed rate you have to have good strong coverage since the go app streams a a fixed bitrate!(I'll work on a local converter using a raspberry pi to maybe be a adaptive bitrate for lower qualilty streaming sorta the man in the middle concept. ((DJI SDK Team if you could support linux on the P3 that would be great!))
+Create an Ubuntu droplet on digital ocean, using the following link you will get $100 worth of credit https://m.do.co/c/4f1abc8a2543
 
 Next:
 Installing Nginx and Nginx-RTMP
